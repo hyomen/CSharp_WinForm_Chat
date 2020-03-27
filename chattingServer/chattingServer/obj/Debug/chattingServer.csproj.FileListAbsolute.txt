@@ -1,0 +1,10 @@
+C:\Users\5656g\source\repos\chattingServer\chattingServer\bin\Debug\chattingServer.exe.config
+C:\Users\5656g\source\repos\chattingServer\chattingServer\bin\Debug\chattingServer.exe
+C:\Users\5656g\source\repos\chattingServer\chattingServer\bin\Debug\chattingServer.pdb
+C:\Users\5656g\source\repos\chattingServer\chattingServer\obj\Debug\chattingServer.csprojAssemblyReference.cache
+C:\Users\5656g\source\repos\chattingServer\chattingServer\obj\Debug\chattingServer.ChatServerForm.resources
+C:\Users\5656g\source\repos\chattingServer\chattingServer\obj\Debug\chattingServer.Properties.Resources.resources
+C:\Users\5656g\source\repos\chattingServer\chattingServer\obj\Debug\chattingServer.csproj.GenerateResource.cache
+C:\Users\5656g\source\repos\chattingServer\chattingServer\obj\Debug\chattingServer.csproj.CoreCompileInputs.cache
+C:\Users\5656g\source\repos\chattingServer\chattingServer\obj\Debug\chattingServer.exe
+C:\Users\5656g\source\repos\chattingServer\chattingServer\obj\Debug\chattingServer.pdb
