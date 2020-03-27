@@ -1,0 +1,11 @@
+C:\Users\5656g\source\repos\myClient\myClient\obj\Debug\myClient.csprojAssemblyReference.cache
+C:\Users\5656g\source\repos\myClient\myClient\obj\Debug\myClient.ClientForm.resources
+C:\Users\5656g\source\repos\myClient\myClient\obj\Debug\myClient.EnterID.resources
+C:\Users\5656g\source\repos\myClient\myClient\obj\Debug\myClient.Properties.Resources.resources
+C:\Users\5656g\source\repos\myClient\myClient\obj\Debug\myClient.csproj.GenerateResource.cache
+C:\Users\5656g\source\repos\myClient\myClient\bin\Debug\myClient.exe.config
+C:\Users\5656g\source\repos\myClient\myClient\bin\Debug\myClient.exe
+C:\Users\5656g\source\repos\myClient\myClient\bin\Debug\myClient.pdb
+C:\Users\5656g\source\repos\myClient\myClient\obj\Debug\myClient.exe
+C:\Users\5656g\source\repos\myClient\myClient\obj\Debug\myClient.pdb
+C:\Users\5656g\source\repos\myClient\myClient\obj\Debug\myClient.csproj.CoreCompileInputs.cache
